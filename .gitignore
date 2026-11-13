@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.chroma/
+.streamlit/
+*.pptx
+.pytest_cache/
